@@ -1,0 +1,1 @@
+exports.BASE_URL = "https://lebaba-frontend.vercel.app";
