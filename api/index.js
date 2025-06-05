@@ -57,7 +57,7 @@ app.post('/uploadImage',  (req, res) => {
 })
 
 app.get("/", (req, res) => {
-  res.send("Meta Blog App Server is running on Vercel!");
+  res.send("LeBaba App Server is running on Vercel!");
 });
 
 module.exports = app;
